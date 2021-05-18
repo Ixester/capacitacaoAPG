@@ -1,0 +1,28 @@
+[mp_row]
+  [mp_span col="12" style="position: relative; opacity: 1; left: 0px; top: 0px;" ]
+    [mp_heading]<h1 style="text-align: center;" data-mce-style="text-align: center;"><strong><span style="color: #ffffff;" data-mce-style="color: #ffffff;">BEM-VINDO À APG</span></strong></h1><h3 style="text-align: center;" data-mce-style="text-align: center;"><br></h3><p style="text-align: center;" data-mce-style="text-align: center;"><em>Aqui você será capacitado com a visão geral da secretaria e da APG. Ao final, espera-se que você esteja situado com o funcionamento dos órgãos e familiarizado com os projetos em desenvolvimento.</em></p><p>&nbsp;<br></p>[/mp_heading]
+  [/mp_span]
+[/mp_row]
+
+[mp_row]
+  [mp_span col="12" ]
+    [mp_heading]<h2 style="text-align: center;" data-mce-style="text-align: center;">QUEM É QUEM</h2><h6 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><em>CONFIRA ABAIXO&nbsp;A NOSSA COMPOSIÇÃO<br> </em></span></h6><p>&nbsp;<br></p>[/mp_heading]
+  [/mp_span]
+[/mp_row]
+
+[mp_row]
+  [mp_span col="4" style="position: relative; opacity: 1; left: 0px; top: 0px;" classes="mp-span5" classes="mp-span5" ]
+    [imageFramed id="4350399" type=" " align="center" target="false" margin="none,none,none,none" imglink="https://sabetudoapg.moodlecloud.com/login/index.php" link_blank="true" alt="" data_entrance="none" ]
+    [mp_heading]<h6 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ffffff;" data-mce-style="color: #ffffff;">SECRETARIA<br> </span></h6><p style="text-align: center;" data-mce-style="text-align: center;"><br></p><p>&nbsp;<br></p>[/mp_heading]
+  [/mp_span]
+  [mp_span col="6" style="position: relative; opacity: 1; left: 0px; top: 0px;" classes="mp-span4 mp-span5" classes="mp-span4 mp-span5" ]
+    [imageFramed id="4350396" type=" " align="center" target="false" margin="none,none,none,none" imglink="https://sabetudoapg.moodlecloud.com/login/index.php" link_blank="true" alt="" data_entrance="none" ]
+    [mp_heading]<h6 style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ffffff;" data-mce-style="color: #ffffff;">APG<br> </span></h6><p style="text-align: center;" data-mce-style="text-align: center;"><span style="color: #ffffff;" data-mce-style="color: #ffffff;"><br> </span></p><p>&nbsp;<br></p>[/mp_heading]
+  [/mp_span]
+  [mp_span col="4" style="position: relative; opacity: 1; left: 0px; top: 0px;" ]
+    [imageFramed id="4350397" type=" " align="center" target="false" margin="none,none,none,none" imglink="https://sabetudoapg.moodlecloud.com/login/index.php" link_blank="true" alt="" data_entrance="none" ]
+    [mp_heading]<h6 style="text-align: center;" data-mce-style="text-align: center;">PROJETOS&nbsp;<br></h6><p><br></p><p>&nbsp;<br></p>[/mp_heading]
+  [/mp_span]
+[/mp_row]
+
+
