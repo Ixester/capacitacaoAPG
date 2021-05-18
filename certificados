@@ -1,0 +1,13 @@
+[mp_row]
+  [mp_span col="12" ]
+  [mp_row_inner]
+  [mp_span_inner col="12" ]
+    [mp_heading]<h1 style="text-align: center;" data-mce-style="text-align: center;"><em>BAIXE AQUI&nbsp;</em><br></h1>[/mp_heading]
+    [mp_button text="CERTIFICADOS" link="https://sabetudoapg.moodlecloud.com/login/index.php" target="true" size="default" align="center" color="scb" data_entrance="none"]
+  [/mp_span_inner]
+  [/mp_row_inner]
+
+  [/mp_span]
+[/mp_row]
+
+
